@@ -1,0 +1,10 @@
+*.log
+*.jou
+mac_clock_gating.cache/
+mac_clock_gating.hw/
+mac_clock_gating.ip_user_files/
+mac_clock_gating.runs/
+mac_clock_gating.sim/
+mac_clock_gating.gen/
+*.dcp
+git
